@@ -1,0 +1,72 @@
+body{
+	font-family: 'Graphik','Arial';
+	display:flex;
+    height:787px;
+	flex-direction:column;
+	align-items:center;
+	justify-content:center;
+	background-color:#fdcacf;
+    background-image: url(img/3.jpeg);
+	padding:0;
+	margin:0;
+}
+input{
+    border-radius:8px;
+    outline:0;
+}
+h1{
+    margin-bottom:20px;
+}
+.adminLabel{
+	font-size:28px;
+}
+.girisEkrani{
+	background-color:#b3797f;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	justify-content:center;
+	width:360px;
+	display:flex;
+	flex-direction:column;
+	padding-top:20px;
+	padding-bottom:80px;
+	padding-right:10px;
+	padding-left:10px;
+    border-radius:20px;
+}
+.girisEkrani a{
+	text-decoration:none;
+    color:#fff;
+    margin-top:30px;
+}
+#e_posta{
+	margin-top:30px;
+	width:80%;
+    height:30px;
+    border:none;
+	
+
+}
+#parola{
+    height:30px;
+	margin-top:30px;
+	width:80%;
+    border:none;
+	
+
+}
+#giris{
+	margin-top:30px;
+	width:80%;
+	height:25px;
+	background-color:#8b676a;
+    border:none;
+}
+
+	
+	
+	
+	
+	
+	
